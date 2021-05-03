@@ -13,5 +13,5 @@ A Sneaker Bot made with Javascript ☢️ .
 
 ### 3.Start the bot
 
-```npm run startBot
+```npm run startBot```
 
