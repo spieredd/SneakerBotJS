@@ -1,5 +1,5 @@
-# SneakerBotJS
-A Sneaker Bot made with Javascript ☢️ .
+# SneakerBotJS ☢️
+A Sneaker Bot made with Javascript.
 
 ## Run the bot
 
