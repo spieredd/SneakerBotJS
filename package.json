@@ -1,0 +1,28 @@
+{
+  "name": "SneakerBotJS",
+  "version": "1.0.0",
+  "description": "A Sneaker Bot made with Javascript ☢️ .",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon index.js",
+    "startBot": "node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/science-math-guy/SneakerBotJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/science-math-guy/SneakerBotJS/issues"
+  },
+  "homepage": "https://github.com/science-math-guy/SneakerBotJS#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}

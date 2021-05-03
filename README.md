@@ -15,3 +15,15 @@ A Sneaker Bot made with Javascript ☢️ .
 
 ```npm run startBot```
 
+### NPM Packages Used
+
+- puppeteer
+- puppeteer-extra
+- puppeteer-extra-plugin-stealth
+- express
+
+#### (Dev dependencies)
+
+- chalk
+- nodemon
+- dotenv
